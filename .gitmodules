@@ -1,7 +1,7 @@
-[submodule "code/proj1"]
-    path = proj1/
-    url = git@github.com:raviteja91/project1.git
+[submodule ".proj1"]
+    path = .proj1
+    url = https://github.com:raviteja91/project1.git
     
-[submodule "code/proj2"]
-    path = proj2/
-    url = git@github.com:raviteja91/project2.git
+[submodule ".proj2"]
+    path = .proj2
+    url = https://github.com:raviteja91/project2.git
